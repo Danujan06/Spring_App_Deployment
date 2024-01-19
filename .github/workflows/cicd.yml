@@ -26,7 +26,7 @@ jobs:
       - name: Delete Old Container
         run: docker rm -f springContainer
       - name: Run docker container
-        run: docker run -d -p 3000:80 --name springContainer danujan06/spring_app   
+        run: docker run -d -p 8080:80 --name springContainer danujan06/spring_app   
 
 
 
