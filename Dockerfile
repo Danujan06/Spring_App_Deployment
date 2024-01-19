@@ -14,7 +14,7 @@ RUN mvn dependency:go-offline
 COPY src ./src
 
 # Build the application
-RUN mvn package
+RUN mvn clean install -DskipTests
 
 # Step 2: Serve the app using OpenJDK
 FROM openjdk:17-jdk-slim
