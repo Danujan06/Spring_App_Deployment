@@ -1,0 +1,33 @@
+name: CICD
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Source
+        uses: actions/checkout@v3
+      - name: Login to Docker Hub
+        run: docker login -u ${{ secrets.DOCKER_HUB_USERNAME }} -p ${{ secrets.DOCKER_HUB_PASSWORD }}
+      - name: Build Docker Image
+        run: docker build -t danujan06/spring_app .
+      - name: Push Docker Image
+        run: docker push danujan06/spring_app:latest
+  deploy:
+    needs: build
+    runs-on: aws-ec2
+    steps:
+      - name: Pull image from docker hub
+        run: docker pull danujan06/spring_app:latest 
+      - name: Delete Old Container
+        run: docker rm -f springContainer
+      - name: Run docker container
+        run: docker run -d -p 3000:80 --name springContainer danujan06/spring_app   
+
+
+
+  

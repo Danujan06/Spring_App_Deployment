@@ -1,2 +1,5 @@
 com\group15\AutomatedHydroponicsSystem\AutomatedHydroponicsSystemApplicationTests.class
+com\group15\AutomatedHydroponicsSystem\Plant\PlantTest.class
+com\group15\AutomatedHydroponicsSystem\Service\HydroponicsSystemTest.class
+com\group15\AutomatedHydroponicsSystem\Plant\PlantControllerTest.class
 com\group15\AutomatedHydroponicsSystem\User\UserTest.class

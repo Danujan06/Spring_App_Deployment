@@ -1,32 +1,35 @@
-E:\Engineering\5th Seme 2023\CO300\Erasable\Testing\AutomatedHydroponicsSystem\AutomatedHydroponicsSystem\src\main\java\com\group15\AutomatedHydroponicsSystem\auth\AuthenticationResponse.java
-E:\Engineering\5th Seme 2023\CO300\Erasable\Testing\AutomatedHydroponicsSystem\AutomatedHydroponicsSystem\src\main\java\com\group15\AutomatedHydroponicsSystem\system\SystemController.java
-E:\Engineering\5th Seme 2023\CO300\Erasable\Testing\AutomatedHydroponicsSystem\AutomatedHydroponicsSystem\src\main\java\com\group15\AutomatedHydroponicsSystem\AutomatedHydroponicsSystemApplication.java
-E:\Engineering\5th Seme 2023\CO300\Erasable\Testing\AutomatedHydroponicsSystem\AutomatedHydroponicsSystem\src\main\java\com\group15\AutomatedHydroponicsSystem\config\SecurityConfiguration.java
-E:\Engineering\5th Seme 2023\CO300\Erasable\Testing\AutomatedHydroponicsSystem\AutomatedHydroponicsSystem\src\main\java\com\group15\AutomatedHydroponicsSystem\Demo\Test.java
-E:\Engineering\5th Seme 2023\CO300\Erasable\Testing\AutomatedHydroponicsSystem\AutomatedHydroponicsSystem\src\main\java\com\group15\AutomatedHydroponicsSystem\config\ApplicationConfig.java
-E:\Engineering\5th Seme 2023\CO300\Erasable\Testing\AutomatedHydroponicsSystem\AutomatedHydroponicsSystem\src\main\java\com\group15\AutomatedHydroponicsSystem\Demo\DemoController.java
-E:\Engineering\5th Seme 2023\CO300\Erasable\Testing\AutomatedHydroponicsSystem\AutomatedHydroponicsSystem\src\main\java\com\group15\AutomatedHydroponicsSystem\token\TokenRepository.java
-E:\Engineering\5th Seme 2023\CO300\Erasable\Testing\AutomatedHydroponicsSystem\AutomatedHydroponicsSystem\src\main\java\com\group15\AutomatedHydroponicsSystem\config\JwtService.java
-E:\Engineering\5th Seme 2023\CO300\Erasable\Testing\AutomatedHydroponicsSystem\AutomatedHydroponicsSystem\src\main\java\com\group15\AutomatedHydroponicsSystem\Demo\AdminController.java
-E:\Engineering\5th Seme 2023\CO300\Erasable\Testing\AutomatedHydroponicsSystem\AutomatedHydroponicsSystem\src\main\java\com\group15\AutomatedHydroponicsSystem\Exception\PlantNotFoundException.java
-E:\Engineering\5th Seme 2023\CO300\Erasable\Testing\AutomatedHydroponicsSystem\AutomatedHydroponicsSystem\src\main\java\com\group15\AutomatedHydroponicsSystem\Demo\ManagementController.java
-E:\Engineering\5th Seme 2023\CO300\Erasable\Testing\AutomatedHydroponicsSystem\AutomatedHydroponicsSystem\src\main\java\com\group15\AutomatedHydroponicsSystem\plants\PlantRepository.java
-E:\Engineering\5th Seme 2023\CO300\Erasable\Testing\AutomatedHydroponicsSystem\AutomatedHydroponicsSystem\src\main\java\com\group15\AutomatedHydroponicsSystem\token\TokenType.java
-E:\Engineering\5th Seme 2023\CO300\Erasable\Testing\AutomatedHydroponicsSystem\AutomatedHydroponicsSystem\src\main\java\com\group15\AutomatedHydroponicsSystem\User\User.java
-E:\Engineering\5th Seme 2023\CO300\Erasable\Testing\AutomatedHydroponicsSystem\AutomatedHydroponicsSystem\src\main\java\com\group15\AutomatedHydroponicsSystem\User\Role.java
-E:\Engineering\5th Seme 2023\CO300\Erasable\Testing\AutomatedHydroponicsSystem\AutomatedHydroponicsSystem\src\main\java\com\group15\AutomatedHydroponicsSystem\auth\AuthenticationRequest.java
-E:\Engineering\5th Seme 2023\CO300\Erasable\Testing\AutomatedHydroponicsSystem\AutomatedHydroponicsSystem\src\main\java\com\group15\AutomatedHydroponicsSystem\Exception\SystemNotFoundException.java
-E:\Engineering\5th Seme 2023\CO300\Erasable\Testing\AutomatedHydroponicsSystem\AutomatedHydroponicsSystem\src\main\java\com\group15\AutomatedHydroponicsSystem\plants\Plant.java
-E:\Engineering\5th Seme 2023\CO300\Erasable\Testing\AutomatedHydroponicsSystem\AutomatedHydroponicsSystem\src\main\java\com\group15\AutomatedHydroponicsSystem\system\System.java
-E:\Engineering\5th Seme 2023\CO300\Erasable\Testing\AutomatedHydroponicsSystem\AutomatedHydroponicsSystem\src\main\java\com\group15\AutomatedHydroponicsSystem\User\UserRepository.java
-E:\Engineering\5th Seme 2023\CO300\Erasable\Testing\AutomatedHydroponicsSystem\AutomatedHydroponicsSystem\src\main\java\com\group15\AutomatedHydroponicsSystem\User\Permission.java
-E:\Engineering\5th Seme 2023\CO300\Erasable\Testing\AutomatedHydroponicsSystem\AutomatedHydroponicsSystem\src\main\java\com\group15\AutomatedHydroponicsSystem\Exception\UserNotFoundException.java
-E:\Engineering\5th Seme 2023\CO300\Erasable\Testing\AutomatedHydroponicsSystem\AutomatedHydroponicsSystem\src\main\java\com\group15\AutomatedHydroponicsSystem\User\UserController.java
-E:\Engineering\5th Seme 2023\CO300\Erasable\Testing\AutomatedHydroponicsSystem\AutomatedHydroponicsSystem\src\main\java\com\group15\AutomatedHydroponicsSystem\config\JwtAuthenticationFilter.java
-E:\Engineering\5th Seme 2023\CO300\Erasable\Testing\AutomatedHydroponicsSystem\AutomatedHydroponicsSystem\src\main\java\com\group15\AutomatedHydroponicsSystem\auth\AuthenticationService.java
-E:\Engineering\5th Seme 2023\CO300\Erasable\Testing\AutomatedHydroponicsSystem\AutomatedHydroponicsSystem\src\main\java\com\group15\AutomatedHydroponicsSystem\plants\PlantController.java
-E:\Engineering\5th Seme 2023\CO300\Erasable\Testing\AutomatedHydroponicsSystem\AutomatedHydroponicsSystem\src\main\java\com\group15\AutomatedHydroponicsSystem\auth\AuthenticationController.java
-E:\Engineering\5th Seme 2023\CO300\Erasable\Testing\AutomatedHydroponicsSystem\AutomatedHydroponicsSystem\src\main\java\com\group15\AutomatedHydroponicsSystem\config\LogoutService.java
-E:\Engineering\5th Seme 2023\CO300\Erasable\Testing\AutomatedHydroponicsSystem\AutomatedHydroponicsSystem\src\main\java\com\group15\AutomatedHydroponicsSystem\auth\RegisterRequest.java
-E:\Engineering\5th Seme 2023\CO300\Erasable\Testing\AutomatedHydroponicsSystem\AutomatedHydroponicsSystem\src\main\java\com\group15\AutomatedHydroponicsSystem\system\SystemRepository.java
-E:\Engineering\5th Seme 2023\CO300\Erasable\Testing\AutomatedHydroponicsSystem\AutomatedHydroponicsSystem\src\main\java\com\group15\AutomatedHydroponicsSystem\token\Token.java
+E:\Deployment\Spring_app_deployment\Spring_App_Deployment\src\main\java\com\group15\AutomatedHydroponicsSystem\Demo\ManagementController.java
+E:\Deployment\Spring_app_deployment\Spring_App_Deployment\src\main\java\com\group15\AutomatedHydroponicsSystem\system\SystemRepository.java
+E:\Deployment\Spring_app_deployment\Spring_App_Deployment\src\main\java\com\group15\AutomatedHydroponicsSystem\system\HydroponicsSystemService.java
+E:\Deployment\Spring_app_deployment\Spring_App_Deployment\src\main\java\com\group15\AutomatedHydroponicsSystem\Exception\SystemNotFoundException.java
+E:\Deployment\Spring_app_deployment\Spring_App_Deployment\src\main\java\com\group15\AutomatedHydroponicsSystem\User\User.java
+E:\Deployment\Spring_app_deployment\Spring_App_Deployment\src\main\java\com\group15\AutomatedHydroponicsSystem\auth\AuthenticationController.java
+E:\Deployment\Spring_app_deployment\Spring_App_Deployment\src\main\java\com\group15\AutomatedHydroponicsSystem\Demo\DemoController.java
+E:\Deployment\Spring_app_deployment\Spring_App_Deployment\src\main\java\com\group15\AutomatedHydroponicsSystem\auth\UserAlreadyExistsException.java
+E:\Deployment\Spring_app_deployment\Spring_App_Deployment\src\main\java\com\group15\AutomatedHydroponicsSystem\User\UserDetailsNew.java
+E:\Deployment\Spring_app_deployment\Spring_App_Deployment\src\main\java\com\group15\AutomatedHydroponicsSystem\plants\PlantRepository.java
+E:\Deployment\Spring_app_deployment\Spring_App_Deployment\src\main\java\com\group15\AutomatedHydroponicsSystem\plants\PlantController.java
+E:\Deployment\Spring_app_deployment\Spring_App_Deployment\src\main\java\com\group15\AutomatedHydroponicsSystem\token\TokenType.java
+E:\Deployment\Spring_app_deployment\Spring_App_Deployment\src\main\java\com\group15\AutomatedHydroponicsSystem\system\SystemController.java
+E:\Deployment\Spring_app_deployment\Spring_App_Deployment\src\main\java\com\group15\AutomatedHydroponicsSystem\token\Token.java
+E:\Deployment\Spring_app_deployment\Spring_App_Deployment\src\main\java\com\group15\AutomatedHydroponicsSystem\config\JwtAuthenticationFilter.java
+E:\Deployment\Spring_app_deployment\Spring_App_Deployment\src\main\java\com\group15\AutomatedHydroponicsSystem\User\Role.java
+E:\Deployment\Spring_app_deployment\Spring_App_Deployment\src\main\java\com\group15\AutomatedHydroponicsSystem\auth\AuthenticationRequest.java
+E:\Deployment\Spring_app_deployment\Spring_App_Deployment\src\main\java\com\group15\AutomatedHydroponicsSystem\system\HydroponicsSystem.java
+E:\Deployment\Spring_app_deployment\Spring_App_Deployment\src\main\java\com\group15\AutomatedHydroponicsSystem\auth\RegisterRequest.java
+E:\Deployment\Spring_app_deployment\Spring_App_Deployment\src\main\java\com\group15\AutomatedHydroponicsSystem\Demo\AdminController.java
+E:\Deployment\Spring_app_deployment\Spring_App_Deployment\src\main\java\com\group15\AutomatedHydroponicsSystem\User\UserController.java
+E:\Deployment\Spring_app_deployment\Spring_App_Deployment\src\main\java\com\group15\AutomatedHydroponicsSystem\AutomatedHydroponicsSystemApplication.java
+E:\Deployment\Spring_app_deployment\Spring_App_Deployment\src\main\java\com\group15\AutomatedHydroponicsSystem\auth\AuthenticationResponse.java
+E:\Deployment\Spring_app_deployment\Spring_App_Deployment\src\main\java\com\group15\AutomatedHydroponicsSystem\config\SecurityConfiguration.java
+E:\Deployment\Spring_app_deployment\Spring_App_Deployment\src\main\java\com\group15\AutomatedHydroponicsSystem\plants\Plant.java
+E:\Deployment\Spring_app_deployment\Spring_App_Deployment\src\main\java\com\group15\AutomatedHydroponicsSystem\User\Permission.java
+E:\Deployment\Spring_app_deployment\Spring_App_Deployment\src\main\java\com\group15\AutomatedHydroponicsSystem\config\JwtService.java
+E:\Deployment\Spring_app_deployment\Spring_App_Deployment\src\main\java\com\group15\AutomatedHydroponicsSystem\Demo\Test.java
+E:\Deployment\Spring_app_deployment\Spring_App_Deployment\src\main\java\com\group15\AutomatedHydroponicsSystem\token\TokenRepository.java
+E:\Deployment\Spring_app_deployment\Spring_App_Deployment\src\main\java\com\group15\AutomatedHydroponicsSystem\config\LogoutService.java
+E:\Deployment\Spring_app_deployment\Spring_App_Deployment\src\main\java\com\group15\AutomatedHydroponicsSystem\Exception\UserNotFoundException.java
+E:\Deployment\Spring_app_deployment\Spring_App_Deployment\src\main\java\com\group15\AutomatedHydroponicsSystem\auth\AuthenticationService.java
+E:\Deployment\Spring_app_deployment\Spring_App_Deployment\src\main\java\com\group15\AutomatedHydroponicsSystem\Exception\PlantNotFoundException.java
+E:\Deployment\Spring_app_deployment\Spring_App_Deployment\src\main\java\com\group15\AutomatedHydroponicsSystem\config\ApplicationConfig.java
+E:\Deployment\Spring_app_deployment\Spring_App_Deployment\src\main\java\com\group15\AutomatedHydroponicsSystem\User\UserRepository.java
