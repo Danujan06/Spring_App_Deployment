@@ -9,7 +9,7 @@ import java.io.IOException;
 import java.util.List;
 import java.util.Optional;
 
-@CrossOrigin
+@CrossOrigin("http://65.2.179.127:3000")
 @RestController
 @RequestMapping("/api/v1/auth")
 public class PlantController {

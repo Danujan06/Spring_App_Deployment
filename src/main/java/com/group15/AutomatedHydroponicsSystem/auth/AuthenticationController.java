@@ -9,7 +9,7 @@ import org.springframework.web.bind.annotation.*;
 
 import java.io.IOException;
 
-@CrossOrigin
+@CrossOrigin("http://65.2.179.127:3000")
 @RestController
 @RequestMapping("/api/v1/auth")
 @RequiredArgsConstructor

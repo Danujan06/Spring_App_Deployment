@@ -9,7 +9,7 @@ import java.util.Optional;
 
 @RestController
 @RequestMapping("/api/v1/auth")
-@CrossOrigin
+@CrossOrigin("http://65.2.179.127:3000")
 public class SystemController {
     @Autowired
     private SystemRepository systemRepository;
