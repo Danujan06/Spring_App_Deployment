@@ -11,6 +11,14 @@ jobs:
     steps:
       - name: Checkout Source
         uses: actions/checkout@v3
+      - name: Setup Java
+        uses: actions/setp-java@v3
+        with:
+          distribution: 'temurin'
+          java-version: '17'
+      - name: Build Project
+        run: mvn clean install -DskipTests
+
       - name: Login to Docker Hub
         run: docker login -u ${{ secrets.DOCKER_HUB_USERNAME }} -p ${{ secrets.DOCKER_HUB_PASSWORD }}
       - name: Build Docker Image
@@ -26,7 +34,7 @@ jobs:
       - name: Delete Old Container
         run: docker rm -f springContainer
       - name: Run docker container
-        run: docker run -d -p 8080:80 --name springContainer danujan06/spring_app
+        run: docker run -d -p 8080:8080 --name springContainer danujan06/spring_app
 
 
 #      - name: Setup Java
