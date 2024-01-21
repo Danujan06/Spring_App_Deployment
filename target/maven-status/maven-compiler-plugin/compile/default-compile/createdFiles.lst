@@ -4,6 +4,7 @@ com\group15\AutomatedHydroponicsSystem\auth\AuthenticationResponse$Authenticatio
 com\group15\AutomatedHydroponicsSystem\Demo\DemoController.class
 com\group15\AutomatedHydroponicsSystem\User\Role.class
 com\group15\AutomatedHydroponicsSystem\auth\AuthenticationService.class
+com\group15\AutomatedHydroponicsSystem\config\CorsConfig$1.class
 com\group15\AutomatedHydroponicsSystem\plants\Plant$PlantBuilder.class
 com\group15\AutomatedHydroponicsSystem\plants\PlantRepository.class
 com\group15\AutomatedHydroponicsSystem\system\SystemRepository.class
@@ -18,6 +19,7 @@ com\group15\AutomatedHydroponicsSystem\auth\RegisterRequest$RegisterRequestBuild
 com\group15\AutomatedHydroponicsSystem\AutomatedHydroponicsSystemApplication.class
 com\group15\AutomatedHydroponicsSystem\Demo\ManagementController.class
 com\group15\AutomatedHydroponicsSystem\User\User$UserBuilder.class
+com\group15\AutomatedHydroponicsSystem\config\CorsConfig.class
 com\group15\AutomatedHydroponicsSystem\token\TokenRepository.class
 com\group15\AutomatedHydroponicsSystem\User\UserDetailsNew.class
 com\group15\AutomatedHydroponicsSystem\Exception\SystemNotFoundException.class
@@ -32,6 +34,7 @@ com\group15\AutomatedHydroponicsSystem\User\User.class
 com\group15\AutomatedHydroponicsSystem\auth\AuthenticationRequest$AuthenticationRequestBuilder.class
 com\group15\AutomatedHydroponicsSystem\system\SystemController.class
 com\group15\AutomatedHydroponicsSystem\config\JwtService.class
+com\group15\AutomatedHydroponicsSystem\Demo\TestController.class
 com\group15\AutomatedHydroponicsSystem\User\UserRepository.class
 com\group15\AutomatedHydroponicsSystem\token\Token$TokenBuilder.class
 com\group15\AutomatedHydroponicsSystem\User\UserController.class

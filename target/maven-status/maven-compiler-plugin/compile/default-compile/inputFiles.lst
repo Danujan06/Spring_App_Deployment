@@ -15,6 +15,7 @@ E:\Deployment\Spring_app_deployment\Spring_App_Deployment\src\main\java\com\grou
 E:\Deployment\Spring_app_deployment\Spring_App_Deployment\src\main\java\com\group15\AutomatedHydroponicsSystem\config\JwtAuthenticationFilter.java
 E:\Deployment\Spring_app_deployment\Spring_App_Deployment\src\main\java\com\group15\AutomatedHydroponicsSystem\User\Role.java
 E:\Deployment\Spring_app_deployment\Spring_App_Deployment\src\main\java\com\group15\AutomatedHydroponicsSystem\auth\AuthenticationRequest.java
+E:\Deployment\Spring_app_deployment\Spring_App_Deployment\src\main\java\com\group15\AutomatedHydroponicsSystem\Demo\TestController.java
 E:\Deployment\Spring_app_deployment\Spring_App_Deployment\src\main\java\com\group15\AutomatedHydroponicsSystem\system\HydroponicsSystem.java
 E:\Deployment\Spring_app_deployment\Spring_App_Deployment\src\main\java\com\group15\AutomatedHydroponicsSystem\auth\RegisterRequest.java
 E:\Deployment\Spring_app_deployment\Spring_App_Deployment\src\main\java\com\group15\AutomatedHydroponicsSystem\Demo\AdminController.java
@@ -22,6 +23,7 @@ E:\Deployment\Spring_app_deployment\Spring_App_Deployment\src\main\java\com\grou
 E:\Deployment\Spring_app_deployment\Spring_App_Deployment\src\main\java\com\group15\AutomatedHydroponicsSystem\AutomatedHydroponicsSystemApplication.java
 E:\Deployment\Spring_app_deployment\Spring_App_Deployment\src\main\java\com\group15\AutomatedHydroponicsSystem\auth\AuthenticationResponse.java
 E:\Deployment\Spring_app_deployment\Spring_App_Deployment\src\main\java\com\group15\AutomatedHydroponicsSystem\config\SecurityConfiguration.java
+E:\Deployment\Spring_app_deployment\Spring_App_Deployment\src\main\java\com\group15\AutomatedHydroponicsSystem\config\CorsConfig.java
 E:\Deployment\Spring_app_deployment\Spring_App_Deployment\src\main\java\com\group15\AutomatedHydroponicsSystem\plants\Plant.java
 E:\Deployment\Spring_app_deployment\Spring_App_Deployment\src\main\java\com\group15\AutomatedHydroponicsSystem\User\Permission.java
 E:\Deployment\Spring_app_deployment\Spring_App_Deployment\src\main\java\com\group15\AutomatedHydroponicsSystem\config\JwtService.java
