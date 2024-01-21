@@ -91,6 +91,7 @@
 				</configuration>
 			</plugin>
 		</plugins>
+		<finalName>AutomatedHydroponicsSystem</finalName>
 	</build>
 
 </project>
