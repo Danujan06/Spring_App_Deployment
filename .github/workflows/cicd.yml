@@ -27,7 +27,7 @@ jobs:
         run: docker push danujan06/spring_app:latest
   deploy:
     needs: build
-    runs-on: backend-application
+    runs-on: danujan-testing
     steps:
       - name: Pull image from docker hub
         run: docker pull danujan06/spring_app:latest
