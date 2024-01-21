@@ -8,6 +8,7 @@ import org.springframework.boot.CommandLineRunner;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.context.annotation.Bean;
+import org.springframework.web.bind.annotation.GetMapping;
 
 @SpringBootApplication
 public class AutomatedHydroponicsSystemApplication {
@@ -48,4 +49,9 @@ public class AutomatedHydroponicsSystemApplication {
 //            }
 //        };
 //	}
+	@GetMapping("/")
+	public String getName(){
+		return "Hello from AutomatedHydroponicsSystem";
+	}
+
 }

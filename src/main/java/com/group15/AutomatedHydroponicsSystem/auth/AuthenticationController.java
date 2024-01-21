@@ -12,6 +12,7 @@ import java.io.IOException;
 @CrossOrigin("http://65.2.179.127:3000")
 @RestController
 @RequestMapping("/api/v1/auth")
+//@RequestMapping("/")
 @RequiredArgsConstructor
 public class AuthenticationController {
 
