@@ -36,8 +36,8 @@ jobs:
         run: docker rm -f springContainer
       - name: Run docker container
         run: docker run -d -p 8080:8080 --name springContainer danujan06/spring_app
-#
-#
+
+
 ##      - name: Setup Java
 ##        uses: actions/setup-java@v3
 ##        with:
