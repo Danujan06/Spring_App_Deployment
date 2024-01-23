@@ -24,7 +24,7 @@ jobs:
       - name: Build Docker Image
         run: docker build -t danujan06/spring_app .
       - name: Push Docker Image
-        run: docker push danujan06/spring_app:latest
+        run: docker push danujan06/spring_app:latest sclear
 
   deploy:
     needs: build
@@ -38,7 +38,7 @@ jobs:
         run: docker run -d -p 8080:8080 --name springContainer danujan06/spring_app
 
 
-##      - name: Setup Java
+
 ##        uses: actions/setup-java@v3
 ##        with:
 ##          distribution: 'temurin'
